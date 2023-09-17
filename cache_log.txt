@@ -1,0 +1,18 @@
+сент. 17, 2023 3:52:48 PM org.example.Cache put
+INFO: Додано об'єкт '1' до кешу '{1=1}'
+сент. 17, 2023 3:52:48 PM org.example.Cache put
+INFO: Додано об'єкт '2' до кешу '{2=2}'
+сент. 17, 2023 3:52:48 PM org.example.Cache put
+INFO: Додано об'єкт '4' до кешу '{4=4}'
+сент. 17, 2023 3:52:48 PM org.example.Cache put
+INFO: Додано об'єкт '5' до кешу '{5=5}'
+сент. 17, 2023 3:52:48 PM org.example.Cache get
+INFO: Зчитано об'єкт '1' з кешу '1'
+сент. 17, 2023 3:52:48 PM org.example.Cache get
+INFO: Зчитано об'єкт '2' з кешу '2'
+сент. 17, 2023 3:52:48 PM org.example.Cache isCacheExist
+INFO: Кеш '3' не існує
+сент. 17, 2023 3:52:48 PM org.example.Cache isCacheExist
+INFO: Кеш '2' існує
+сент. 17, 2023 3:52:48 PM org.example.Cache clear
+INFO: Всі кеші було очищено
